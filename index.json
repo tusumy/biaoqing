@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "count": 1,
+  "stickers": [
+    {
+      "id": "wo-yao-cao-ni",
+      "title": "我要草你",
+      "tags": [
+        "挑衅",
+        "嚣张",
+        "色色",
+        "小熊",
+        "斗嘴"
+      ],
+      "path": "stickers/wo-yao-cao-ni.png",
+      "url": "https://raw.githubusercontent.com/tusumy/biaoqing/main/stickers/wo-yao-cao-ni.png"
+    }
+  ]
+}
